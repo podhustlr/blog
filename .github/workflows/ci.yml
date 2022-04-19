@@ -1,0 +1,45 @@
+# Runs build and test
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+      - run: npm install
+      - run: npm run build-ci
+      - name: Upload and store artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: blog
+          path: |
+            _site
+            blog-service.yaml
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download static artifacts of blog
+        uses: actions/download-artifact@v2
+        with:
+          name: blog
+      - id: deploy
+        uses: google-github-actions/deploy-appengine@v0.5.0
+        with:
+          # The "credentials" key is being deprecated. Refer to: https://github.com/google-github-actions/deploy-appengine#usage
+          credentials: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
+          deliverables: blog-service.yaml
+      - name: Describe application
+        run: gcloud app describe
