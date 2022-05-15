@@ -1,7 +1,7 @@
 {
-  "title": "noicaudio blog",
-  "url": "https://blog.noicaudio.com",
-  "domain": "blog.noicaudio.com",
+  "title": "podhustlr blog",
+  "url": "https://blog.podhustlr.com",
+  "domain": "blog.podhustlr.com",
   "description": "Editorials, announcements, platform features, tutorials.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
@@ -17,10 +17,10 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "by the noicaudio team",
+    "name": "by the podhustlr team",
     "twitterHandle": "update_me"
   },
   "publisher": {
-    "name": "noicaudio"
+    "name": "podhustlr"
   }
 }
