@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Let us start by telling you how excited we are to have you on board! 🎉
+As podcasters ourselves we know that there is no greater joy than sharing a new episode with your listeners. The sheer amount of satisfaction you get for giving the world the fruit of your work is immense.
 
 At podhustlr we want to make this process as pain-free as possible and that's why we are currently en route of teaming up with some of the largest streaming services in the world so that distributing your podcast across the internet is just one click away.
 
@@ -15,51 +15,52 @@ But, due to the increasing amount of bureaucracy that these companies deal with,
 
 ![](https://blog.podhustlr.com/img/posts/spotify.png)
 
-To alleviate this problem we are encouraging you to read this tutorial so that you can learn how to import your podcast to Podhustlr and let Spotify and Apple Podcasts about your recent change.
+To alleviate this problem we are encouraging you to read this tutorial so that you can learn how to submit and own your podcast to Spotify, Apple Music and Google Podcasts yourself, till we manage work things out with these platforms.
 
-## Importing your podcast to Podhustlr
+## Submitting your podcast to Spotify
 
-⚡ **We currently allow users of our paid plans to import their podcasts to Podhustlr. For free users this is not an option at the moment.**
+1. After you've successfully imported your old podcast(s) or created new one you can **navigate to the "Podcast Settings"** area and see all the details for your podcast.
 
-There are two way to import your podcast to Podhustlr. You can either use:
-- the registration wizard
-- the in-app wizard
+![](https://blog.podhustlr.com/img/posts/settings.png)
 
-### Using the registration wizard
+2. From there you can copy the link of the RSS feed of your podcast. The RSS feed is nothing more than a description of your podcast in a language that computers can understand. It is also, what tells the streaming platforms like Spotify of where to find your episodes. **Click the button to copy the link.**
 
-When you sign-up for a new account with Podhustlr, we ask you to fill some details about your podcasting experience and allow you to create a new podcast or import (an) existing one(s).
+![](https://blog.podhustlr.com/img/posts/rss-copy.png)
 
-![](https://blog.podhustlr.com/img/posts/start-journey-podhustlr.png)
+3. Head over to [Spotify](https://podcasters.spotify.com/) and **click the "Get Started" button.**
 
-You will be asked whether you are a new or returning podcaster. If you want to import your podcast(s) during the registration phase, you have to select the "No" option.
+![](https://blog.podhustlr.com/img/posts/get-started-spotify.png)
 
-![](https://blog.podhustlr.com/img/posts/first-time-podcast-host-wizard.png)
+4. **Login with your account**
 
+![](https://blog.podhustlr.com/img/posts/login-spotify.png)
 
-Then, you can either copy and paste your old RSS feed link (your previous podcasting provider should be able to provide it to you) or you can upload a CSV file that contains the links of all your podcast RSS feed links and we will do the rest.
+5. **Click on the "Get Started" button on the podcasts page.**
 
-![](https://blog.podhustlr.com/img/posts/wizard-import-csv.png)
+![](https://blog.podhustlr.com/img/posts/get-started-podcast-spotify.png)
 
-Depending on the number of podcasts you want to import this may take a while. Even if you close your browser the import will continue in the background, **but we highly recommend to keep it open**.
+6. **Paste the RSS feed link to the text box and click "Next".**
 
-### Using the in-app wizard
+![](https://blog.podhustlr.com/img/posts/submit-podcast-spotify.png)
 
-If you prefer to explore the Podhustlr interface, taking advantage of your 30 days free trial, you can use the in-app wizard to import (a) podcast(s) whenever you feel comfortable.
+7. **Congrats! Your podcast is on Spotify!**
 
-While you are in any page of the Podhustlr app, **click the plus sign in the top right corner.**
-
-![](https://blog.podhustlr.com/img/posts/in-app-wizard-plus-sign.png)
-
-You can then upload a CSV file containing all the podcast RSS feed links from your previous provider or paste a single one. Either way, we will take care of the rest.
-
-![](https://blog.podhustlr.com/img/posts/in-app-wizard.png)
-
-**When the process finishes, your podcast media files and information will be in your Podhustlr account!**
-
-## Informing streaming platforms about the change
-
-After you've successfuly imported your podcast(s) to Podhustlr, you can **inform the streaming platforms about your podcast's new location** by [following our distribution guide](https://blog.podhustlr.com/posts/distribution).
+![](https://blog.podhustlr.com/img/posts/congrats-spotify.png)
 
 
+There is nothing else you need to do. Keep writing, recording and creating episodes and podhustlr will take care of the rest!
+
+## Submitting your podcast to Apple Podcasts
+
+Apple has created an extensive guide for submitting your podcasts to "Apple Podcasts".
+
+![](https://blog.podhustlr.com/img/posts/apple-guide.png)
+
+We recommend that [you follow it](https://podcasters.apple.com/support/897-submit-a-show)! If you don't know where to find your RSS feed link, **read steps 1 and 2 from our Spotify submission guide!**
 
 
+## Future plans
+
+As we've already mentioned, **we are committed in automating this process** so that you can get your podcast to your listeners favorite platforms with the click of single button. We will keep this article updated and let you know with an announcement that **we have distributed your podcast to every platform possible.**
+
+![](https://blog.podhustlr.com/img/posts/get-started-spotify.png)
