@@ -13,7 +13,7 @@ At podhustlr we want to make this process as pain-free as possible and that's wh
 
 But, due to the increasing amount of bureaucracy that these companies deal with, this process is extremely slow.
 
-![](../img/posts/spotify.png)
+![](https://blog.podhustlr.com/img/posts/spotify.png)
 
 To alleviate this problem we are encouraging you to read this tutorial so that you can learn how to submit and own your podcast to Spotify, Apple Music and Google Podcasts yourself, till we manage work things out with these platforms.
 
@@ -21,31 +21,31 @@ To alleviate this problem we are encouraging you to read this tutorial so that y
 
 1. After you've successfully imported your old podcast(s) or created new one you can **navigate to the "Podcast Settings"** area and see all the details for your podcast.
 
-![](../img/posts/settings.png)
+![](https://blog.podhustlr.com/img/posts/settings.png)
 
 2. From there you can copy the link of the RSS feed of your podcast. The RSS feed is nothing more than a description of your podcast in a language that computers can understand. It is also, what tells the streaming platforms like Spotify of where to find your episodes. **Click the button to copy the link.**
 
-![](../img/posts/rss-copy.png)
+![](https://blog.podhustlr.com/img/posts/rss-copy.png)
 
 3. Head over to [Spotify](https://podcasters.spotify.com/) and **click the "Get Started" button.**
 
-![](../img/posts/get-started-spotify.png)
+![](https://blog.podhustlr.com/img/posts/get-started-spotify.png)
 
 4. **Login with your account**
 
-![](../img/posts/login-spotify.png)
+![](https://blog.podhustlr.com/img/posts/login-spotify.png)
 
 5. **Click on the "Get Started" button on the podcasts page.**
 
-![](../img/posts/get-started-podcast-spotify.png)
+![](https://blog.podhustlr.com/img/posts/get-started-podcast-spotify.png)
 
 6. **Paste the RSS feed link to the text box and click "Next".**
 
-![](../img/posts/submit-podcast-spotify.png)
+![](https://blog.podhustlr.com/img/posts/submit-podcast-spotify.png)
 
 7. **Congrats! Your podcast is on Spotify!**
 
-![](../img/posts/congrats-spotify.png)
+![](https://blog.podhustlr.com/img/posts/congrats-spotify.png)
 
 
 There is nothing else you need to do. Keep writing, recording and creating episodes and podhustlr will take care of the rest!
@@ -54,7 +54,7 @@ There is nothing else you need to do. Keep writing, recording and creating episo
 
 Apple has created an extensive guide for submitting your podcasts to "Apple Podcasts".
 
-![](../img/posts/apple-guide.png)
+![](https://blog.podhustlr.com/img/posts/apple-guide.png)
 
 We recommend that [you follow it](https://podcasters.apple.com/support/897-submit-a-show)! If you don't know where to find your RSS feed link, **read steps 1 and 2 from our Spotify submission guide!**
 
@@ -63,4 +63,4 @@ We recommend that [you follow it](https://podcasters.apple.com/support/897-submi
 
 As we've already mentioned, **we are committed in automating this process** so that you can get your podcast to your listeners favorite platforms with the click of single button. We will keep this article updated and let you know with an announcement that **we have distributed your podcast to every platform possible.**
 
-![](../img/posts/get-started-spotify.png)
+![](https://blog.podhustlr.com/img/posts/get-started-spotify.png)
