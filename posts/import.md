@@ -60,6 +60,6 @@ You can then upload a CSV file containing all the podcast RSS feed links from yo
 
 After you've successfuly imported your podcast(s) to Podhustlr, you can **inform the streaming platforms about your podcast's new location** by [following our distribution guide](https://blog.podhustlr.com/posts/distribution).
 
+Also, it **is highly recommended that you check out your previous provider's guide** on updating your podcast RSS feed location. They will usually be able to guide you through the process.
 
-
-
+If you encounter any trouble during the importing process we highly encourage you to reach out to us at support@podhustlr.com or on our [Discord](https://discord.gg/MknU465A) server.
